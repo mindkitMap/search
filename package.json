@@ -1,0 +1,11 @@
+{
+  "name": "@mind-kit/search",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nielinjie <nielinjie@outlook.com>",
+  "license": "ISC"
+}
